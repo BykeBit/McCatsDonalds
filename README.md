@@ -5,8 +5,8 @@ Esta es una pagina web de broma, la estoy usando para mejorar mis habilidades co
 #### Aunque va a ir avanzando la pagina...
 
 
-### Development
-The development of the addon might not be super active due to us having our own lives contrary to the popular belief.
+### Desarrollo
+La pagina web se editara localmente en Visual Studio Code y cuando se termine de editar se subira el contenido actualizado. Esto se hace ya que GitHub se tarda demaciado en recargar la pagina despues de realizar cambios.
 
 #### Sitio Web: https://bykebit.github.io/McCatsDonalds/
 
