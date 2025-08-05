@@ -141,6 +141,6 @@ footer {
         .redes img {
             width: 1.5rem;
             height: 1.5rem;
-            filter: invert(80%) sepia(20%) saturate(300%) hue-rotate(170deg);
-            transition: filter 0.2s;
+            filter: invert(100%)
         }
+
