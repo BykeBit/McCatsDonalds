@@ -1,35 +1,31 @@
-<!DOCTYPE html>
-<html lang="es">
+![banner](https://raw.githubusercontent.com/KassuK1/BlackOut/main/src/main/resources/assets/blackout/logo.png)
 
-<link rel="stylesheet" href="https://github.com/BykeBit/McCatsDonalds/blob/main/DWEB.css"> 
-<head>
-    <link rel="icon" type="image/png" href="Gatito McDonald's.png"/>
-    <img src="Gatito McDonald's.png" id=gatito-btn>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <p> </p>
-    <img src="Gato logo.png" id="gatito-mcdonalds">
-</head>
-<body>
-    <p> </p>
-    <h1><b></b>Gatitos McDonald's</h1><b></h1>
-    <h1>Se venden Gatitos McDonald's</h1>
-    <p>Precios a $500.000 COP cada gatito</p>
-    <p>Sirve en todo, y es muy obediente</p>
-    <p> </p>
-    <p> </p>
-    <h1><b>¡No se aceptan devoluciones!</b></h1>
-    <p><b>Ni quejas</b></p>
-    <p> </p>
-    <p>Para más información, click al icono de WhatsApp</p>
-    <img src="whatsapp.png" id="whatsapp-icon" onclick="location.href='https://api.whatsapp.com/send?phone=573183918383'">
-    <img src="Gatito Papitas.png" id="gatito-papitas">
-    <p> </p>
-</div>
-</body>
-<footer>
-    <h1>Gatos McDonald's</h1>
-    <p>CopyRight © 2025 Gatitos McDonald's. Todos los derechos reservados.</p>
-    <h5>ReVentas no autorizadas</h5>
-</footer>
-</html>
+![Lines of code](https://img.shields.io/tokei/lines/github/KassuK1/BlackOut?color=blue&label=lines%20of%20code&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/1020709439742947380?color=blue&label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/mmWz9Dz4Y9)
+[![Downloads](https://img.shields.io/github/downloads/KassuK1/BlackOut/total?color=blueviolet&style=for-the-badge)](https://github.com/KassuK1/BlackOut/releases)
+
+# Blackout
+An addon for Meteor client that adds a variety of new/improved features to the Meteor client
+such as a new and improved CrystalAura, BedAura and PacketFly and a lot more of new things to push you above the competition.
+
+### Development
+The development of the addon might not be super active due to us having our own lives contrary to the popular belief.
+
+### How to use Blackout:
+ - Install Fabric 1.21.1.
+ - Download Meteor Client and put it in your mod's folder.
+ - Put Blackout in your "mods" folder with Meteor.
+ - Run Fabric.
+ - Enjoy the addon.
+ - Join the discord if you have any issues with it.
+
+#### Latest build: https://github.com/KassuK1/BlackOut/releases/download/latest/blackout-1.0.2.jar
+
+#### Credits
+Doogie13 for helping with the block mining calculations and step offsets.
+
+RickyTheRaccoon for his InvSwitch.
+
+#### Official youtube channel https://www.youtube.com/channel/UCq_NxTxgS-Xk0TsSmhqXoyg
+
+### Once you go black you never go back
