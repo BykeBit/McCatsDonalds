@@ -1,3 +1,3 @@
-https://raw.githubusercontent.com/BykeBit/McCatsDonalds/refs/heads/main/Gatito%20McDonald's.png
+<img src="Gato logo.png" id="gatito-mcdonalds">
 Link: https://bykebit.github.io/McCatsDonalds/
 
