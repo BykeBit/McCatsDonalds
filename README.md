@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<link rel="stylesheet" href="DWEB.css"> 
+<link rel="stylesheet" href="[DWEB.css](https://github.com/BykeBit/McCatsDonalds/blob/main/DWEB.css)"> 
 <head>
     <link rel="icon" type="image/png" href="Gatito McDonald's.png"/>
     <img src="Gatito McDonald's.png" id=gatito-btn>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gatitos McDonald's | Comprar</title>
     <p> </p>
     <img src="Gato logo.png" id="gatito-mcdonalds">
 </head>
