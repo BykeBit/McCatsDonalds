@@ -1,4 +1,4 @@
-   ![banner](https://raw.githubusercontent.com/BykeBit/McCatsDonalds/refs/heads/main/Gatito%20McDonald's.png)
+![banner](https://raw.githubusercontent.com/BykeBit/McCatsDonalds/refs/heads/main/Gatito%20McDonald's.png)
 
 # McCatsDonalds
 Esta es una pagina web de broma, la estoy usando para mejorar mis habilidades como Programador o Diseñador Web. No es del todo perfecta pero es lo que se hacer por ahora. 
