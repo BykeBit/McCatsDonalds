@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<link rel="stylesheet" href="[DWEB.css](https://github.com/BykeBit/McCatsDonalds/blob/main/DWEB.css)"> 
+<link rel="stylesheet" href="https://github.com/BykeBit/McCatsDonalds/blob/main/DWEB.css"> 
 <head>
     <link rel="icon" type="image/png" href="Gatito McDonald's.png"/>
     <img src="Gatito McDonald's.png" id=gatito-btn>
