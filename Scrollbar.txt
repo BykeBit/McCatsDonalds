@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+    width: 13px;
+    height: 10px;
+}
+
+/* Canal del scroll */
+::-webkit-scrollbar-track {
+    background: #ac0101; /* Fondo tipo VSCode */
+}
+
+/* Scroll que se mueve */
+::-webkit-scrollbar-thumb {
+    background-color: #740101; /* Gris oscuro */
+    border-radius: 0px; /* SIN bordes redondeados */
+}
+
+/* Hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #8b0101;
+}
