@@ -1,3 +1,3 @@
 # McCatsDonalds
-McCatsDonalds: ```https://bykebit.github.io/McCatsDonalds/```
+McCatsDonalds: https://bykebit.github.io/McCatsDonalds/
 
