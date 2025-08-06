@@ -20,7 +20,7 @@ Esto se hace porque GitHub Pages a veces tarda mucho en recargar la página desp
 
 ---
 
-### 🙏 Créditos
+### Créditos
 
 - Profesor **Emerson Toledo** por ayudarme en algunas cosas
 
