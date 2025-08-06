@@ -8,7 +8,7 @@ La pagina web se editara localmente en Visual Studio Code y cuando se termine de
 
 #### Sitio Web: https://bykebit.github.io/McCatsDonalds/
 
-#### Credits
+#### Creditos
 Profesor Emerson Toledo por ayudarme en algunas cosas
 
 
