@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BykeBit/McCatsDonalds/refs/heads/main/assets/Gato%20logo.png" alt="Logo de McCatsDonalds" width="60%">
+  <img src="https://raw.githubusercontent.com/BykeBit/McCatsDonalds/refs/heads/main/assets/Gato%20logo.png" alt="Logo de McCatsDonalds" width="50%">
 </p>
 
-# 🐱🍔 McCatsDonalds
+# McCatsDonalds
 
-Esta es una página web de **broma**, creada con el propósito de mejorar mis habilidades como Programador 💻 y Diseñador Web 🎨.  
+Esta es una página web de **broma**, creada con el propósito de mejorar mis habilidades como Programador y Diseñador Web.  
 No es perfecta, pero ¡es lo que sé hacer por ahora!  
-*Aunque la página seguirá avanzando poco a poco...*
+### Aunque la página seguirá avanzando poco a poco...
 
 ---
 
@@ -22,8 +22,8 @@ Esto se hace porque GitHub Pages a veces tarda mucho en recargar la página desp
 
 ### 🙏 Créditos
 
-- Profesor **Emerson Toledo** por ayudarme en algunas cosas 👨‍🏫
+- Profesor **Emerson Toledo** por ayudarme en algunas cosas
 
 ---
 
-> **McCatsDonalds es solo una página de humor, sin fines serios. ¡Disfrútala! 😹🍟**
+> **McCatsDonalds es solo una página de broma, sin fines comerciales.**
