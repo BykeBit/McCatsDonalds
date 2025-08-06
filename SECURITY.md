@@ -2,7 +2,7 @@
 
 ## 📌 Reglas Generales
 
-1. ❌ **Prohibido clonar, copiar, modificar o redistribuir** este repositorio o su contenido con fines comerciales o de plagio sin autorización previa.
+1. ❌ **Prohibido clonar, copiar, modificar o redistribuir** este repositorio o su contenido con fines comerciales o de plagio sin autorización.
 2. ✅ El uso de este proyecto es **exclusivamente educativo y/o personal**.
 3. 🔒 No se permite el uso de este código en otros proyectos públicos o privados sin **créditos visibles** y **permiso del autor**.
 4. 🚫 No está permitido eliminar los créditos, marcas, logos o menciones originales del autor.
