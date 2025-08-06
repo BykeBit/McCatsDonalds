@@ -7,6 +7,7 @@ Esta es una pagina web de broma, la estoy usando para mejorar mis habilidades co
 La pagina web se editara localmente en Visual Studio Code y cuando se termine de editar se subira el contenido actualizado. Esto se hace ya que GitHub se tarda demaciado en recargar la pagina despues de realizar cambios.
 
 #### Sitio Web: https://bykebit.github.io/McCatsDonalds/
+####En Discord: SvenrtSO
 
 #### Creditos
 Profesor Emerson Toledo por ayudarme en algunas cosas
