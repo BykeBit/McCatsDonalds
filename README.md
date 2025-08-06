@@ -10,13 +10,13 @@ No es perfecta, pero ¡es lo que sé hacer por ahora!
 
 ---
 
-### 🚧 Desarrollo
+### Desarrollo
 
 La página web se edita **localmente** con **Visual Studio Code** y luego se sube el contenido actualizado a GitHub.  
 Esto se hace porque GitHub Pages a veces tarda mucho en recargar la página después de los cambios.
 
-#### 📌 Sitio Web: [McCatsDonald's](https://bykebit.github.io/McCatsDonalds/)  
-#### 📌 En Discord: SvenrtSO
+#### - Sitio Web: [McCatsDonald's](https://bykebit.github.io/McCatsDonalds/)  
+#### - En Discord: SvenrtSO
 
 ---
 
