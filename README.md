@@ -1,16 +1,29 @@
-# McCatsDonalds
-Esta es una pagina web de broma, la estoy usando para mejorar mis habilidades como Programador o Diseñador Web. No es del todo perfecta pero es lo que se hacer por ahora. 
-#### Aunque va a ir avanzando la pagina...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BykeBit/McCatsDonalds/refs/heads/main/assets/Gato%20logo.png" alt="Logo de McCatsDonalds" width="60%">
+</p>
 
+# 🐱🍔 McCatsDonalds
 
-### Desarrollo
-La pagina web se editara localmente en Visual Studio Code y cuando se termine de editar se subira el contenido actualizado. Esto se hace ya que GitHub se tarda demaciado en recargar la pagina despues de realizar cambios.
+Esta es una página web de **broma**, creada con el propósito de mejorar mis habilidades como Programador 💻 y Diseñador Web 🎨.  
+No es perfecta, pero ¡es lo que sé hacer por ahora!  
+*Aunque la página seguirá avanzando poco a poco...*
 
-#### Sitio Web: https://bykebit.github.io/McCatsDonalds/
-#### En Discord: SvenrtSO
+---
 
-#### Creditos
-Profesor Emerson Toledo por ayudarme en algunas cosas
+### 🚧 Desarrollo
 
+La página web se edita **localmente** con **Visual Studio Code** y luego se sube el contenido actualizado a GitHub.  
+Esto se hace porque GitHub Pages a veces tarda mucho en recargar la página después de los cambios.
 
-### McCatsDonalds 
+📌 **Sitio Web**: [https://bykebit.github.io/McCatsDonalds/](https://bykebit.github.io/McCatsDonalds/)  
+📌 **En Discord**: SvenrtSO
+
+---
+
+### 🙏 Créditos
+
+- Profesor **Emerson Toledo** por ayudarme en algunas cosas 👨‍🏫
+
+---
+
+> **McCatsDonalds es solo una página de humor, sin fines serios. ¡Disfrútala! 😹🍟**
