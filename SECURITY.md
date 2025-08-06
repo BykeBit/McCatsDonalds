@@ -1,6 +1,6 @@
-# Security Policy
+# Politica de Seguridad
 
-## Supported Versions
+#### 1. Se prohibe la edicion o plagio de este Repositorio o Pagina Web
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
