@@ -94,10 +94,60 @@ footer {
     font-size: 0.8em;
     margin-top: 20px;
     padding: 10px;
-    background-color: #9c0101;
+    background-color: #d60101;
     color: #ffffff;
 }
 
+.barra hr {
+	background: #690101;
+	width: 100%;
+	height: 5px;
+	border: red;
+	margin: 0px 0;
+	border-radius: 0px;
+}
+
+.redes-bar hr {
+    background: #69010100;
+    width: 100%;
+    height: 3px;
+    border: red;
+    margin: 0px 0;
+    border-radius: 0px;
+}
+
+.contenedor {
+	width: 500px;
+	height: 500px;
+	margin: 50px auto;
+	padding: 20px;
+	background: #fff;
+	overflow: auto;
+	font-family: 'Open Sans';
+	border-radius: 4px;
+}
+
+.contenedor h1 {
+	font-size: 38px;
+	font-weight: 600;
+	color: #000;
+}
+
+.contenedor p {
+	margin-bottom: 20px;
+	line-height: 28px;
+	font-size: 16px;
+	color: #414141;
+}
+
+.contenedor hr {
+	background: #690101;
+	width: 30%;
+	height: 5px;
+	border: none;
+	margin: 20px 0;
+	border-radius: 50px;
+}
 
 /* Grosor */
 ::-webkit-scrollbar {
@@ -106,12 +156,15 @@ footer {
 
 /* Fondo de ScrollBar */
 ::-webkit-scrollbar-track {
-    background: #9c0101;
+    background: #d60101;
 }
 
 /* ScrollBar */
 ::-webkit-scrollbar-thumb {
     background-color: #680101;
+    border-top: 3px solid #d60101;
+	border-right: 3px solid #d60101;
+    border-bottom: 3px solid #d60101;
 }
 
 /* Cuando se pone el mouse arriba */
@@ -124,6 +177,7 @@ footer {
     background-color: #8b0101;
 }
 
+
         .redes {
             display: flex;
             gap: 0.3rem;
@@ -133,7 +187,7 @@ footer {
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            background: #3d000000;
+            background: #00000000;
             border-radius: 50%;
             width: 2rem;
             height: 1rem;
