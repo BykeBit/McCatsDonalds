@@ -28,13 +28,6 @@ body{
     cursor: pointer;
 }
 
-#whatsapp-icon {
-    display: block;
-    margin: 0px auto;
-    height: 50px;
-    width: 50px;
-}
-
 #contacto p {
     margin-bottom: 1.2rem;
     color: #e0e0e0;
@@ -151,7 +144,7 @@ footer {
 
 /* Grosor */
 ::-webkit-scrollbar {
-    width: 13px;
+    width: 14px;
 }
 
 /* Fondo de ScrollBar */
@@ -162,9 +155,9 @@ footer {
 /* ScrollBar */
 ::-webkit-scrollbar-thumb {
     background-color: #680101;
-    border-top: 3px solid #d60101;
-	border-right: 3px solid #d60101;
-    border-bottom: 3px solid #d60101;
+    border-top: 2px solid #d60101;
+	border-right: 2px solid #d60101;
+    border-bottom: 2px solid #d60101;
 }
 
 /* Cuando se pone el mouse arriba */
