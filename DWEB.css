@@ -1,3 +1,12 @@
+header {
+    background-color: #680101;
+    box-shadow: 0 2px 12px black;
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    transition: background 0.3s;
+}
+
 body{
     font-family: sans-serif;
     background: #d60101;
@@ -24,23 +33,8 @@ body{
     display: block;
     margin: 5px;
     width: 50px;
-    height: 50px;
+    height: 30px;
     cursor: pointer;
-}
-
-#contacto p {
-    margin-bottom: 1.2rem;
-    color: #e0e0e0;
-}
-
-#contacto a {
-    color: #6ec1e4;
-    text-decoration: underline;
-    transition: color 0.2s;
-}
-
-#contacto a:hover {
-    color: #fff;
 }
 
 h1 {
@@ -91,8 +85,44 @@ footer {
     color: #ffffff;
 }
 
+.headerstyle {
+    background-color: #680101; /* rojo oscuro */
+    box-shadow: 0 2px 8px black;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding: 0;           /* quitamos espacio vertical */
+    height: 50px;         /* altura fija más cuadrada */
+    display: flex;
+    align-items: center;  /* centra el contenido vertical */
+}
+
+.headerstyle ul {
+    list-style: none;
+    display: flex;
+    justify-content: center; /* centrado horizontal */
+    gap: 3rem;               /* menos espacio entre items */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.headerstyle li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1em;
+    padding: 10px 15px;   /* área clickeable más rectangular */
+    transition: background 0.2s, color 0.2s;
+}
+
+.headerstyle li a:hover {
+    background: #800000; /* fondo rojo más fuerte */
+    color: #ff0000;      /* texto dorado */
+}
+
 .barra hr {
-	background: #690101;
+	background: #680101;
 	width: 100%;
 	height: 5px;
 	border: red;
@@ -100,46 +130,44 @@ footer {
 	border-radius: 0px;
 }
 
-.redes-bar hr {
-    background: #69010100;
-    width: 100%;
-    height: 3px;
-    border: red;
-    margin: 0px 0;
-    border-radius: 0px;
+section {
+    display: flex;
+    justify-content: space-between; /* redes a la izq, rules a la der */
+    align-items: center;
+    margin-top: 10px;
 }
 
-.contenedor {
-	width: 500px;
-	height: 500px;
-	margin: 50px auto;
-	padding: 20px;
-	background: #fff;
-	overflow: auto;
-	font-family: 'Open Sans';
-	border-radius: 4px;
+.redes {
+    display: flex;
+    gap: 0.3rem;
+    align-items: center;
+}
+.redes a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #00000000;
+    border-radius: 50%;
+    width: 2rem;
+    height: 1rem;
 }
 
-.contenedor h1 {
-	font-size: 38px;
-	font-weight: 600;
-	color: #000;
+.redes img {
+    width: 1.5rem;
+    height: 1.5rem;
+    filter: invert(100%) sepia(20%) saturate(300%) hue-rotate(170deg);
+    transition: filter 0.2s;
 }
 
-.contenedor p {
-	margin-bottom: 20px;
-	line-height: 28px;
-	font-size: 16px;
-	color: #414141;
+.rules {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; /* por si acaso */
 }
 
-.contenedor hr {
-	background: #690101;
-	width: 30%;
-	height: 5px;
-	border: none;
-	margin: 20px 0;
-	border-radius: 50px;
+.rules p {
+    color: #ffffff;
+    margin: 0; /* para que no cree espacio extra */
 }
 
 /* Grosor */
@@ -149,15 +177,12 @@ footer {
 
 /* Fondo de ScrollBar */
 ::-webkit-scrollbar-track {
-    background: #d60101;
+    background: #d6010100;
 }
 
 /* ScrollBar */
 ::-webkit-scrollbar-thumb {
     background-color: #680101;
-    border-top: 2px solid #d60101;
-	border-right: 2px solid #d60101;
-    border-bottom: 2px solid #d60101;
 }
 
 /* Cuando se pone el mouse arriba */
@@ -169,27 +194,3 @@ footer {
 ::-webkit-scrollbar-thumb:active {
     background-color: #8b0101;
 }
-
-
-        .redes {
-            display: flex;
-            gap: 0.3rem;
-            align-items: center;
-        }
-        .redes a {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            background: #00000000;
-            border-radius: 50%;
-            width: 2rem;
-            height: 1rem;
-        }
-        .redes img {
-            width: 1.5rem;
-            height: 1.5rem;
-            filter: invert(80%) sepia(20%) saturate(300%) hue-rotate(170deg);
-            transition: filter 0.2s;
-        }
-
-
